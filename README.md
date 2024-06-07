@@ -13,7 +13,7 @@ I am an avid software engineer and cybersecurity enthusiast with over 9 years of
 - 🏗️ Building the world's best open-source [ChMS](https://chms.io/) (Church Management System)
 - 💻 Freelancing for non-profits and other organizations
 - 🤖 Programming for [∞ 16461 Robotics](https://16461.mcr.club)
-- 🔒 Competing in AFA CyberPatriot (International CyberSecurity Competition)
+- 🔒 Competing in [AFA CyberPatriot](https://www.uscyberpatriot.org/) (International CyberSecurity Competition)
 
 ## 💫 More About Me
 
