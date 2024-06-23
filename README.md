@@ -29,6 +29,8 @@ Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%23323330.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Java](https://img.shields.io/badge/rust-%23323330.svg?style=for-the-badge&logo=rust&logoColor=white) 
+
 
 Developer Tools: 
 ![JMeter](https://img.shields.io/badge/JMeter-FF6C37?style=for-the-badge&logo=jmeter&logoColor=white) 
