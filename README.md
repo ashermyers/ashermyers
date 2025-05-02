@@ -7,7 +7,6 @@ I am an avid software engineer and cybersecurity enthusiast with over 9 years of
 ## 🚀 What I'm Up To
 
 - 💻 Freelancing for non-profits and other organizations
-- 🤖 Programming Lead for [∞ 16461 Robotics](https://16461.org)
 - 🔒 Competing in [AFA CyberPatriot](https://www.uscyberpatriot.org/) (International CyberSecurity Competition)
 
 ## 💫 More About Me
