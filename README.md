@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I'm Asher Myers</h1>
 
 # About Me:
-I am an avid software engineer and cybersecurity enthusiast with over 9 years of experience building fast, scalable, and secure applications.
+I am an avid software engineer and cybersecurity enthusiast with over 10 years of experience building fast, scalable, and secure applications.
 
 ## 🚀 What I'm Up To
 
@@ -47,5 +47,4 @@ Libraries/Frameworks:
 Databases:
 ![MongoDB](https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb) 
 ![DynamoDB](https://img.shields.io/badge/dynamodb-%2320232a.svg?style=for-the-badge&logo=dynamodb&logoColor=%ffbb00) 
-![ScyllaDB](https://img.shields.io/badge/scylladb-%2320232a?style=for-the-badge&logo=scylladb) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2320232a?style=for-the-badge&logo=PostgreSQL) 
