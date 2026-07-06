@@ -1,61 +1,77 @@
-<h1 align="center">Hi 👋 I'm Asher Myers</h1>
-<h3 align="center">Network & Security Engineering Student • Full Stack Developer • Cybersecurity Enthusiast</h3>
+<h1 align="center">Hi, I'm Asher 👋</h1>
+
+<p align="center">
+Computer Engineering student at Virginia Tech focused on networking, cybersecurity, and enterprise infrastructure.
+</p>
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
-I'm an incoming engineering student passionate about cybersecurity, networking, systems infrastructure, and full-stack development.
+I'm passionate about building secure, reliable, and scalable systems.
 
-I enjoy building scalable applications, automating workflows, and designing reliable systems that solve real-world problems. My experience ranges from web and backend development to IT infrastructure, networking, livestream systems, and cybersecurity competitions.
+My interests include:
 
----
+- 🌐 Enterprise Networking
+- 🔒 Cybersecurity
+- ☁️ Cloud Infrastructure
+- 🖥️ Systems Administration
+- ⚙️ Backend Development
+- 🚀 DevOps & Automation
 
-# 🚀 Background & Experience
-
-- 💻 Freelance development and infrastructure projects for nonprofits and organizations
-- 🔒 Former CyberPatriot semifinalist and team captain
-- 🤖 FTC World Championship competitor and programming lead
-- 🌐 Experience with networking, access control, and physical security systems
-- ⚡ Building backend systems and automation tools with Go and TypeScript
-
----
-
-# 🛠 Interests
-
-- Cybersecurity & Network Engineering
-- Systems Administration & Infrastructure
-- Physical Security & Access Control
-- Reverse Engineering & Automation
-- Real-time Streaming & Media Systems
-- Self-Hosted & Cloud Technologies
-
-Currently learning:
-- Wiegand reader protocol
-- DIY networked access control systems
-- GPIO, relays, and embedded systems
-- Advanced networking and infrastructure design
+I enjoy designing software that works hand-in-hand with modern infrastructure, from web applications to enterprise systems.
 
 ---
 
-# 💻 Tech Stack
+## 🛠 Technologies
 
-## Languages
-![Go](https://img.shields.io/badge/GO-%23323330.svg?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%233178C6)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Kotlin](https://img.shields.io/badge/kotlin-%23323330.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=white)
+### Languages
 
-## Frameworks & Tools
-![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NextJS](https://img.shields.io/badge/nextjs-%2320232a.svg?style=for-the-badge&logo=nextjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB)
-![Cloudflare](https://img.shields.io/badge/cloudflare-black?style=for-the-badge&logo=cloudflare&logoColor=f6821f)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- TypeScript
+- Kotlin
+- Go
+- Java
 
-## Databases
-![MongoDB](https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2320232a?style=for-the-badge&logo=PostgreSQL)
+### Frameworks
+
+- Next.js
+- Tanstack Start
+- React
+- Hono
+- Elysia
+- Tailwind CSS
+
+### Infrastructure
+
+- Linux
+- Docker
+- Cloudflare
+- VMware
+- Networking
+- MongoDB
+- PostgreSQL
+- Git
+
+---
+
+## 📂 Current Projects
+
+- 🔐 Authentication & Identity Platform
+- ⛪ Church Management System
+- 🌐 Enterprise Infrastructure Lab
+
+---
+
+## 🏆 Experience
+
+- President — Computer Science Honor Society
+- Website & App Intern — St. Giles
+- Member — Cooperative Computing Alliance
+- CyberPatriot National Competition
+- Programming Lead — FTC Team 16461
+
+---
+
+## 📫 Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/asher-myers
